@@ -1,2 +1,1 @@
-# drift-hunters
-epic drift
+https://bodedeneal.github.io/drift-hunters/
